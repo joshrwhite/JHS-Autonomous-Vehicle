@@ -3,7 +3,7 @@ Using approved vendors for a typical high school technology department unless ot
 
 | Product                                                  | Vendor             | Price  |
 |:--------------------------------------------------------:|:------------------:|:------:|
-| Base Vehicle                                                                           |
+| Base Vehicle                                             |                    |        |
 |[Ford Bronco 6V by Kid Trax](https://tinyurl.com/wfda3x5) | Walmart*           | $98.00 |
 | Controller Modules                                       |                    |        |
 |[Arduino UNO Rev 3](https://tinyurl.com/s2hv9sr)          | Electronix Express | $26.95 |
