@@ -2,9 +2,13 @@
 
 Instead of buying a traffic light system for machine learning development, we will be strengthening our programming skills by creating our own Traffic Light System.
 
+[//]: # (Image References)
+
+[image1]: https://github.com/joshrwhite/JHS-Autonomous-Vehicle/blob/master/Images/StreetMap.PNG "StreetMap"
+
 ## Street Map
 
-(Fill with image)
+![StreetMap][image1]
 
 ## Schematic
 
